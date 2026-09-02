@@ -66,8 +66,7 @@ export const projects = [
     github: "https://github.com/kesvavn/guest-room-booking",
     live: "https://guest-room-booking-lemon.vercel.app/",
     description:
-        "A full-stack guest room booking application that enables users to browse available rooms, view detailed room information, check date-based availability, calculate booking prices, and make reservations. The application also includes secure JWT authentication, role-based admin access, booking management, cancellation handling, and double-booking prevention.",
-
+  "Full-stack guest room booking application with room browsing, availability checking, reservations, and secure JWT authentication.",
     features: [
       "JWT authentication and role-based authorization with separate user and admin workflows",
       "RESTful APIs built with MongoDB/Mongoose",
