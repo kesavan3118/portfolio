@@ -26,8 +26,8 @@ export default function Hero() {
     <section id="home" className="hero">
       <div className="container hero-grid">
         <div className={`hero-copy ${entered ? "is-entered" : ""}`}>
-          <p className="hero-kicker">Full Stack Web Developer · Fresher</p>
-          <h1 className="hero-title">
+         <p className="hero-kicker">{profile.title}</p>
+           <h1 className="hero-title">
             {profile.name}
           </h1>
           <p className="hero-summary">{profile.heroSummary}</p>

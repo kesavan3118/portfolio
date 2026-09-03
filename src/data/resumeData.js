@@ -10,16 +10,15 @@
 
 export const profile = {
   name: "Kesavan M",
-  title: "Full Stack Web Developer (Fresher)",
+  title: "Full Stack Web Developer ",
   phone: "9600523080",
   email: "mailsamykesavan@gmail.com",
   github: "https://github.com/kesvavn",
   linkedin: "https://www.linkedin.com/in/kesavan-m01",
   heroSummary:
-  "Motivated Full Stack Web Developer (Fresher) skilled in the MERN Stack, passionate about building responsive web applications and learning modern technologies.",
+  "Full Stack Web Developer skilled in the MERN Stack, focused on building responsive, secure, and user-friendly web applications.",
   summary:
-    "Motivated Full Stack Web Developer (Fresher) skilled in the MERN Stack, including React.js, Node.js, Express.js, and MongoDB, with hands-on experience developing full-stack applications such as Melodia Event Management and StayEase – Guest Room Booking Application, with expertise in responsive web development, RESTful APIs, JWT authentication, MongoDB integration, booking management, and role-based access control.",
-};
+  "Full Stack Web Developer skilled in the MERN Stack, including React.js, Node.js, Express.js, and MongoDB, with practical experience building applications such as Melodia Event Management and StayEase. Experienced in responsive web development, RESTful APIs, JWT authentication, MongoDB integration, booking management, availability checks, and role-based authorization."};
 
 export const skills = [
   {
@@ -61,7 +60,6 @@ export const projects = [
     id: "stayease",
     name: "StayEase – Guest Room Booking Application",
     type: "Full Stack Developer Interview Task",
-    duration: "3 Days",
     techStack: ["React.js", "Node.js", "Express.js", "MongoDB", "Bootstrap", "JWT"],
     github: "https://github.com/kesvavn/guest-room-booking",
     live: "https://guest-room-booking-lemon.vercel.app/",
